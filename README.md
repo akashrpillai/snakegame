@@ -1,6 +1,6 @@
 
 # Snake Game
-simple and basic implementaion of the famous sanke Game 
+simple and basic implementaion of the famous snake Game 
 using html,css and javascript
 
 
